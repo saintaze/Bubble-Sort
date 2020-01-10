@@ -7,4 +7,4 @@ This is the implementation of bubble sort algorithm in ruby
 + Ruby
 
 # Author
-+ Saintaze [@saintaze](https://github.com/saintaze/)
+Saintaze [@saintaze](https://github.com/saintaze/)
